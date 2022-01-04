@@ -12,3 +12,6 @@ The number on the left indicates Unix time :
 [xxx.xxx.xxx.xxx] rxTm: 1641293009.374749 .. Tue Jan  4 19:43:29 2022
 [xxx.xxx.xxx.xxx] txTm: 1641293009.374868 .. Tue Jan  4 19:43:29 2022
 ```
+
+# License
+This software is released under the MIT License.
